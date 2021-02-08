@@ -1,0 +1,31 @@
+_repo: Tom-Sawyers-Abenteuer-und-Streiche_64417
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schrödter, H.
+    gutenberg_agent_id: '52891'
+    url: http://www.gutenberg.org/2009/agents/52891
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2021-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64417'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tom Sawyers Abenteuer und Streiche
+url: http://www.gutenberg.org/ebooks/64417
