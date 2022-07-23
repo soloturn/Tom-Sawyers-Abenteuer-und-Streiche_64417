@@ -100,7 +100,7 @@ Mark Twain.
 
 Der amerikanische Humor ist eine eigenartige Pflanze, von der viele
 glauben, dass sie nicht in fremden Boden versetzt werden kann.
-Dennoch giebt es unter den Humoristen des Westens _einen_ Namen, der
+Dennoch gibt es unter den Humoristen des Westens _einen_ Namen, der
 weltbekannt ist: _Mark Twain_. Mark Twain ist durch die im Jahre 1892
 in meinem Verlag erschienene Gesamtausgabe seiner besten humoristischen
 Schriften auch in Deutschland in weitesten Kreisen bekannt geworden.
@@ -197,7 +197,7 @@ San Francisco. Hier erschienen seine humoristischen Skizzen in
 verschiedenen Blättern; bald ward sein Name an der Küste des Stillen
 Ozeans allgemein bekannt, und zwei Jahre später schickte man ihn als
 Zeitungskorrespondenten nach den Sandwichinseln. Von seinen Erlebnissen
-im fernen Westen giebt uns das Buch »~Roughing It~«[2] eine ergötzliche
+im fernen Westen gibt uns das Buch »~Roughing It~«[2] eine ergötzliche
 Beschreibung.
 
     [2] Band 4 und 5 der vorliegenden Ausgabe.
@@ -284,7 +284,7 @@ was ihre ganze Kraft, all ihren Atem in Anspruch nahm. Trotz der
 Anstrengung förderte sie jedoch nichts zu Tage, als die alte Katze, die
 ob der Störung sehr entrüstet schien.
 
-»So was wie den Jungen giebt's nicht wieder!«
+»So was wie den Jungen gibt's nicht wieder!«
 
 Sie trat unter die offene Hausthüre und liess den Blick über die Tomaten
 und Kartoffeln schweifen, welche den Garten vorstellten. Kein Tom zu
@@ -329,7 +329,7 @@ nach, dann brach sie in leises Lachen aus.
 »Hol' den Jungen der und jener! Kann ich denn nie gescheit werden? Hat
 er mir nicht schon Streiche genug gespielt, dass ich mich endlich einmal
 vor ihm in acht nehmen könnte! Aber, wahr ist's, alte Narren sind
-die schlimmsten, die's giebt, und ein alter Pudel lernt keine neuen
+die schlimmsten, die's gibt, und ein alter Pudel lernt keine neuen
 Kunststückchen mehr, heisst's schon im Sprichwort. Wie soll man aber
 auch wissen, was der Junge im Schild führt, wenn's jeden Tag was andres
 ist! Weiss der Bengel doch genau, wie weit er bei mir gehen kann, bis
@@ -1435,7 +1435,7 @@ da eben vortrat aus ihren Reihen und dem grossen Mann die Hand bot, als
 sei das nichts. Hätte Willy gewusst, was das Flüstern bedeutete, das
 sich erhob, es hätte ihm wie Sphärenmusik in den Ohren geklungen!
 
-»Sieh doch, Jim, Tom sieh doch! Er geht ja wahrhaftig hin und giebt ihm
+»Sieh doch, Jim, Tom sieh doch! Er geht ja wahrhaftig hin und gibt ihm
 die Hand! Und der schüttelt sie. Weiss Gott, ich gäb' drei Steinkugeln
 drum, wenn ich der Willy wäre!«
 
@@ -1644,7 +1644,7 @@ Tom stöhnte:
 
 »Ach, Sid, lass los, du thust mir weh!«
 
-»Herr Gott, was giebts, Tom? Ich muss die Tante rufen.«
+»Herr Gott, was gibts, Tom? Ich muss die Tante rufen.«
 
 »Nein, lass sein. Es wird schon vorüber gehen. Ruf' niemand.«
 
@@ -1688,11 +1688,11 @@ Beine tragen wollten, und Mary hinter ihr her. Blass war auch sie
 geworden und ihre Lippen zitterten. Am Bett angelangt, keuchte sie nur
 so:
 
-»Tom, Tom, was giebt's, was ist los?«
+»Tom, Tom, was gibt's, was ist los?«
 
 »Ach, Tante, ich --«
 
-»Was giebt's -- was ist's, Kind, was fehlt dir?«
+»Was gibt's -- was ist's, Kind, was fehlt dir?«
 
 »Ach, Tante, ich -- ich hab' furchtbare Schmerzen da an meiner Zehe, --
 ich hab' -- ja ich hab', glaub' ich -- den kalten Brand!«
@@ -2829,7 +2829,7 @@ Plötzlich ergriff Tom den Arm seines Kameraden:
 
 »Scht!«
 
-»Was giebt's, Tom?« Und die zwei umklammerten sich gegenseitig,
+»Was gibt's, Tom?« Und die zwei umklammerten sich gegenseitig,
 atemlos, wild pochenden Herzens.
 
 »Scht! Da ist's wieder. Hast du denn nichts gehört?«
@@ -2877,7 +2877,7 @@ die beiden Augen zu, Vater lass --‹«
 
 »Scht!«
 
-»Was giebt's, Huck?«
+»Was gibt's, Huck?«
 
 »'s sind Menschen! Einer davon mal gewiss! Die eine Stimme kenn' ich,
 die gehört dem alten Muff Potter.«
@@ -3796,7 +3796,7 @@ allen Richtungen umpurzelten, fiel dabei selber zappelnd dicht vor die
 Nase Beckys hin, diese beinahe mit sich zu Boden reissend. Sie aber
 wandte sich, hob das Näschen in die Luft und er hörte sie sagen:
 
-»Ph -- ph! 's giebt Jungens, die sich für furchtbar interessant halten,
+»Ph -- ph! 's gibt Jungens, die sich für furchtbar interessant halten,
 -- immer müssen sie sich zeigen!«
 
 Toms Wangen brannten. Er rappelte sich auf und schlich davon,
@@ -4047,7 +4047,7 @@ immer so allein für sich.«
 nachgedacht. Jetzt will ich selber viel lieber Seeräuber sein, seit
 ich's probiert hab'.«
 
-»Ausserdem,« belehrte Tom, »giebt man heutzutage nicht mehr so viel
+»Ausserdem,« belehrte Tom, »gibt man heutzutage nicht mehr so viel
 auf Eremiten, wie früher in alten Zeiten, während ein Pirat überall
 geachtet ist. Ein Eremit muss auch immer auf dem allerhärtesten Platz
 schlafen, den er finden kann, muss Asche auf sein Haupt streuen und --«
@@ -4088,7 +4088,7 @@ Worauf Tom erwiderte:
 »O, die haben Zeitvertreib genug. Die kapern Schiffe und verbrennen
 sie, nehmen alles Geld weg und vergraben's an ganz schrecklich
 gruseligen Plätzen auf ihrer Insel, wo's Geister und solche Wesen
-giebt, die den Schatz bewachen. Dann töten sie jedermann auf den
+gibt, die den Schatz bewachen. Dann töten sie jedermann auf den
 Schiffen -- lassen alle über die Planken springen --«
 
 »Und die Frauen schleppen sie ans Land,« vervollständigte Joe, »die
@@ -6290,7 +6290,7 @@ der schlimmsten Art aber fühlten sie sich, wie Potter sagte:
 irgend wer in der Stadt. Und ich gedenk's euch, weiss Gott, ich thu's.
 Oft sag' ich zu mir selber: ›hast doch all deiner Lebtag den Jungen
 nur Guts gethan, hast den Schlingeln die Drachen geflickt und die
-besten Fischplätze gewiesen, aber nee, Dankbarkeit giebt's nicht, alle
+besten Fischplätze gewiesen, aber nee, Dankbarkeit gibt's nicht, alle
 haben den alten Muff vergessen, der jetzt so tief in der Tinte sitzt,
 alle -- nur der Tom nicht und der Huck nicht, die haben ihn nicht
 vergessen,‹ sag' ich, ›und der alte Muff, der vergisst sie auch nicht.‹
@@ -6588,7 +6588,7 @@ Ueberfluss von der Zeit, die _kein_ Geld ist.
 
 »Na, so 'n bisschen überall.«
 
-»Was? giebt's denn überall 'nen Schatz?«
+»Was? gibt's denn überall 'nen Schatz?«
 
 »Wie du nur so fragen magst! Die sind immer nur an ganz besonderen
 Plätzen. Mal auf 'ner Insel, dann in 'ner alten, verfaulten Kiste, die
@@ -6657,7 +6657,7 @@ Hucks Augen glühten.
 Diamanten liess ich dir!«
 
 »Schon recht. Ich werf' sie nicht weg, sag' ich dir, Dummkopf! Ei,
-einer davon ist oft mehr wert, als zwanzig Dollars, 's giebt keinen,
+einer davon ist oft mehr wert, als zwanzig Dollars, 's gibt keinen,
 der nicht zum wenigsten sechzig, siebzig Cents oder 'nen Dollar gilt.«
 
 »Nee! Wahrhaftig?«
@@ -6958,7 +6958,7 @@ ein, dass heut' Freitag sei.«
 schön in die Patsche geraten können, wenn wir mit so was am Freitag
 angefangen hätten.«
 
-»Hätten geraten können? Ich sag' _wären_ geraten! 's giebt Glückstage,
+»Hätten geraten können? Ich sag' _wären_ geraten! 's gibt Glückstage,
 aber der Freitag ist keiner!«
 
 »Das weiss jeder Narr. Du denkst doch nicht, dass du der erste bist, der
@@ -6993,7 +6993,7 @@ Mit denen hat er immer alles ganz brüderlich geteilt.«
 »Das muss ja 'n Staatskerl gewesen sein.«
 
 »Das war er, weiss Gott, Huck. Das war einfach der beste Mensch, der je
-gelebt hat. So giebt's jetzt gar keine Menschen mehr, sag' ich dir. Der
+gelebt hat. So gibt's jetzt gar keine Menschen mehr, sag' ich dir. Der
 konnte jeden Mann in England zwingen mit _einer_ Hand, man durfte ihm
 die andere festbinden. Und dann nahm er seinen Eiben-Bogen und traf
 jedes Zehn-Centstück auf anderthalb Meilen Entfernung.«
@@ -7061,7 +7061,7 @@ sie im Begriff, hinunter und an die Arbeit zu gehen, als --
 
 »Sscht!« sagte Tom.
 
-»Was giebt's?« flüsterte Huck, vor Schreck erbleichend.
+»Was gibt's?« flüsterte Huck, vor Schreck erbleichend.
 
 »Sscht! Da! Hörst du?«
 
@@ -7106,7 +7106,7 @@ ringen. Es war die Stimme des Indianer-Joe.
 
 Ein Schweigen folgte, dann sagte dieser:
 
-»Was giebt's wohl Gefährlicheres, als das letzte Stückchen, das ich
+»Was gibt's wohl Gefährlicheres, als das letzte Stückchen, das ich
 dort drüben geliefert, -- damit wies er mit dem Finger nach der
 Richtung der Stadt, -- und ist da vielleicht was 'raus gekommen dabei?«
 
@@ -7214,7 +7214,7 @@ Joes Messer stiess auf etwas Hartes.
 
 »Holla,« sagte er.
 
-»Was giebt's?« fragte der andre.
+»Was gibt's?« fragte der andre.
 
 »Eine verfaulte Diele, -- nee 's ist 'ne Kiste, glaub' ich. Schnell,
 pack' an und wir wollen bald dahinter kommen, was die hier soll. Lass
@@ -7560,7 +7560,7 @@ Bei Tag schlaf' ich und bei Nacht wach' ich.«
 
 »Auf Ben Rogers Heuboden. Der hat nichts dagegen und Onkel Jakob, --
 weisst du, der alte Nigger, der im Hause ist -- auch nicht. Dem hab' ich
-schon oft 's Wasser geschleppt, und er giebt mir manchmal was zu essen,
+schon oft 's Wasser geschleppt, und er gibt mir manchmal was zu essen,
 wenn er selber was hat. 's ist 'n guter Nigger, Tom. Der hat mich gern,
 weil ich nie thu', als ob ich was Besseres wär'. Manchmal hab' ich
 mich, weiss Gott, schon hingesetzt und mit ihm gegessen. Das brauchst du
@@ -8162,7 +8162,7 @@ Nun musste der Alte den Besuchern die Geschichte der Nacht bis in's
 kleinste berichten. Die Dankbarkeit der Witwe Douglas für ihre Rettung
 machte sich in warmen Worten Luft.
 
-»Verlieren Sie kein Wort weiter, Madam,« wehrte der Alte ab, »'s giebt
+»Verlieren Sie kein Wort weiter, Madam,« wehrte der Alte ab, »'s gibt
 einen, dem Sie zu viel grösserem Danke verpflichtet sind, als mir und
 meinen Jungens, der will aber seinen Namen nicht genannt haben. Ohne
 den, sag' ich Ihnen, wären wir niemals dazu gekommen, die Halunken zu
@@ -8337,7 +8337,7 @@ Pflegerin beobachtete ihn und flüsterte leise:
 
 »Da -- nun schläft er wieder, armer, kleiner Kerl. Ob Tom Sawyer den
 Branntwein gefunden hat! Grosser Gott, wenn doch nur einer den Tom
-Sawyer selber finden wollte! Viele giebt's nicht mehr, die noch Kraft
+Sawyer selber finden wollte! Viele gibt's nicht mehr, die noch Kraft
 genug oder auch Hoffnung genug haben, um weiter zu suchen.«
 
 [Illustration]
@@ -8853,7 +8853,7 @@ gehen. Tom meinte, warum nicht -- das würde ihm nichts ausmachen.
 
 Da sagte der Kreisrichter:
 
-»Tollköpfe wie du einer bist, giebt's noch mehr, Tom, daran zweifle ich
+»Tollköpfe wie du einer bist, gibt's noch mehr, Tom, daran zweifle ich
 keinen Augenblick. Aber wir haben der Sache ein Ende gemacht. In der
 Höhle soll von nun an keiner mehr verloren gehen.«
 
@@ -8864,7 +8864,7 @@ verschliessen lassen, und weil ich die Schlüssel dazu selber verwahre.«
 
 Tom wurde weiss wie ein Leintuch.
 
-»Herrgott, was giebt's, Junge? Schnell, bring' mal einer ein Glas
+»Herrgott, was gibt's, Junge? Schnell, bring' mal einer ein Glas
 Wasser!«
 
 Das Wasser wurde gebracht und Tom damit bespritzt. »So, mein Junge, ist
